@@ -1,1 +1,4 @@
 # Singlecell_Beihang_project
+Many single-cell sequencing technologies are now available, but it is increasingly common to have different types of measurements performed on the same underlying system. The emerging diversity of single-cell RNA-seq datasets allows for the full transcriptional characterization of cell types across a wide variety of biological conditions. However, it is challenging to analyze them together, particularly when datasets are assayed with different technologies because biological and technical differences are interspersed.
+
+Here we will implement manifold alignment to do data integration on single-cell RNA sequence data (scRNAseq). In this case, there will be two scRNAseq data, and our purpose is to integrate them together. That will be great if you can also pair the cells in different data sets.
